@@ -189,13 +189,13 @@ little comment to say hello and let us all know how your week went.
   </td>
 </tr></table></li>
 <li><table><tr>
-  <td><img src='./admin/avatars/coaches/essBidali.jpeg' height="150px" width="150px" alt='Esther Bidali' /></td>
+  <td><img src='./admin/avatars/coaches/Ess-Bidali.jpeg' height="150px" width="150px" alt='Esther Bidali' /></td>
   <td> <h3 display="inline">Esther Bidali</h3>
     <ul>
-        <li>github: <a href="https://github.com/essBidali" >essBidali</a></li>
-        <li>issues: <a href="https://github.com/lab-italanta-1/home/issues?q=author%3AessBidali">opened</a>, <a href="https://github.com/lab-italanta-1/home/issues?q=assignee%3AessBidali+is%3Aissue">assigned</a>, <a href="https://github.com/lab-italanta-1/home/issues?q=commenter%3AessBidali">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-italanta-1/home/pulls?q=author%3AessBidali">opened</a>, <a href="https://github.com/lab-italanta-1/home/pulls?q=assignee%3AessBidali+is%3Apr">assigned</a>, <a href="https://github.com/lab-italanta-1/home/pulls?q=commenter%3AessBidali">commented</a>, <a href="https://github.com/lab-italanta-1/home/pulls?q=reviewed-by%3AessBidali+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-italanta-1/home/discussions?discussions_q=author%3AessBidali">opened</a>, <a href="https://github.com/lab-italanta-1/home/discussions?discussions_q=commenter%3AessBidali">commented</a>, <a href="https://github.com/lab-italanta-1/home/discussions?discussions_q=includes%3AessBidali">included</a></li>       <li>mentions: <a href="https://github.com/lab-italanta-1/home/issues?q=mentions%3AessBidali">issues</a>, <a href="https://github.com/lab-italanta-1/home/pulls?q=mentions%3AessBidali">PRs</a>, <a href="https://github.com/lab-italanta-1/home/discussions?discussions_q=mentions%3AessBidali">discussions</a>
+        <li>github: <a href="https://github.com/Ess-Bidali" >Ess-Bidali</a></li>
+        <li>issues: <a href="https://github.com/lab-italanta-1/home/issues?q=author%3AEss-Bidali">opened</a>, <a href="https://github.com/lab-italanta-1/home/issues?q=assignee%3AEss-Bidali+is%3Aissue">assigned</a>, <a href="https://github.com/lab-italanta-1/home/issues?q=commenter%3AEss-Bidali">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-italanta-1/home/pulls?q=author%3AEss-Bidali">opened</a>, <a href="https://github.com/lab-italanta-1/home/pulls?q=assignee%3AEss-Bidali+is%3Apr">assigned</a>, <a href="https://github.com/lab-italanta-1/home/pulls?q=commenter%3AEss-Bidali">commented</a>, <a href="https://github.com/lab-italanta-1/home/pulls?q=reviewed-by%3AEss-Bidali+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-italanta-1/home/discussions?discussions_q=author%3AEss-Bidali">opened</a>, <a href="https://github.com/lab-italanta-1/home/discussions?discussions_q=commenter%3AEss-Bidali">commented</a>, <a href="https://github.com/lab-italanta-1/home/discussions?discussions_q=includes%3AEss-Bidali">included</a></li>       <li>mentions: <a href="https://github.com/lab-italanta-1/home/issues?q=mentions%3AEss-Bidali">issues</a>, <a href="https://github.com/lab-italanta-1/home/pulls?q=mentions%3AEss-Bidali">PRs</a>, <a href="https://github.com/lab-italanta-1/home/discussions?discussions_q=mentions%3AEss-Bidali">discussions</a>
 <li><code>workflows</code></li>
 <li><code>agile-development</code></li>    </ul>
   </td>
